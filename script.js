@@ -19,7 +19,7 @@ function PrintDeveloperbyForEach() {
   arr.forEach(printforeach);
   function printforeach(arrayitem){
     if(arrayitem.profession === "developer"){
-      console.lof(arrayitem);
+      console.log(arrayitem);
     }
 
 function addData() {
